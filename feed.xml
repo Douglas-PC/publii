@@ -3,12 +3,32 @@
     <title>DouglasPC.com</title>
     <link href="https://douglaspc.com/feed.xml" rel="self" />
     <link href="https://douglaspc.com" />
-    <updated>2024-10-05T15:25:01-04:00</updated>
+    <updated>2024-10-05T15:57:31-04:00</updated>
     <author>
         <name>Eric Douglas</name>
     </author>
     <id>https://douglaspc.com</id>
 
+    <entry>
+        <title>Marketing</title>
+        <author>
+            <name>Eric Douglas</name>
+        </author>
+        <link href="https://douglaspc.com/marketing/"/>
+        <id>https://douglaspc.com/marketing/</id>
+
+        <updated>2024-10-05T15:57:31-04:00</updated>
+            <summary>
+                <![CDATA[
+                    AI Integrations to help with content Writing Fully Researched, SEO Optimized Articles Marketing chatbot Specialized AI Agents Advanced AI &amp; Plagiarism Detector Unlimited&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>AI Integrations to help with content Writing<br>Fully Researched, SEO Optimized Articles<br>Marketing chatbot<br>Specialized AI Agents<br>Advanced AI &amp; Plagiarism Detector<br>Unlimited SEO Optimization of Articles<br>Entity analysis, NLP &amp; salience scoring<br>Automated meta, title &amp; description<br>Topic Clustering<br>Unlimited Keyword Research<br>Real-time competitive Analysis reports<br>Brand Publisher network Access<br>Google Search Console Integration<br>Direct Publishing</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cyber-Security</title>
         <author>
@@ -22,7 +42,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://douglaspc.com/media/posts/5/circle.gif" alt="" />
-                    Services Monitored Next Generation Protections, Managed Detection &amp;Recovery, Business Continuity, Security Audits,&hellip;
+                    Services Monitored Next Generation Protections, Managed Detection &amp;Recovery, Business Continuity, Security Audits, and Penetration Testing Unified Communication Systems with text, phone, and video,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -151,7 +171,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://douglaspc.com/media/posts/3/Minimalist-Sunrise-Email-Header.png" alt="" />
-                    We help find more ways to keep you in touch with customers,&hellip;
+                    We help find more ways to keep you in touch with customers, and more of keeping on top what what there is to&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -176,7 +196,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://douglaspc.com/media/posts/1/Thinking.svg" alt="" />
-                    Offering a wide range of services with a high emphasis or mostly&hellip;
+                    Offering a wide range of services with a high emphasis or mostly based on technical, computer, automations, and business tech services. We look&hellip;
                 ]]>
             </summary>
         <content type="html">
