@@ -3,7 +3,7 @@
     <title>DouglasPC.com</title>
     <link href="https://douglaspc.com/feed.xml" rel="self" />
     <link href="https://douglaspc.com" />
-    <updated>2024-10-05T15:57:31-04:00</updated>
+    <updated>2024-10-06T09:27:42-04:00</updated>
     <author>
         <name>Eric Douglas</name>
     </author>
@@ -16,6 +16,9 @@
         </author>
         <link href="https://douglaspc.com/marketing/"/>
         <id>https://douglaspc.com/marketing/</id>
+            <category term="sales"/>
+            <category term="marketing"/>
+            <category term="advertising"/>
 
         <updated>2024-10-05T15:57:31-04:00</updated>
             <summary>
@@ -37,6 +40,9 @@
         <link href="https://douglaspc.com/cyber-security/"/>
         <id>https://douglaspc.com/cyber-security/</id>
         <media:content url="https://douglaspc.com/media/posts/5/circle.gif" medium="image" />
+            <category term="security"/>
+            <category term="protection"/>
+            <category term="antivirus"/>
 
         <updated>2024-10-05T15:17:44-04:00</updated>
             <summary>
@@ -166,6 +172,10 @@
         <link href="https://douglaspc.com/communications/"/>
         <id>https://douglaspc.com/communications/</id>
         <media:content url="https://douglaspc.com/media/posts/3/Minimalist-Sunrise-Email-Header.png" medium="image" />
+            <category term="voip"/>
+            <category term="ucaas"/>
+            <category term="phone"/>
+            <category term="communication"/>
 
         <updated>2024-04-02T20:29:11-04:00</updated>
             <summary>
