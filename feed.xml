@@ -3,7 +3,7 @@
     <title>Douglas PC</title>
     <link href="https://douglaspc.com/feed.xml" rel="self" />
     <link href="https://douglaspc.com" />
-    <updated>2024-11-12T10:35:37-05:00</updated>
+    <updated>2024-11-12T10:37:18-05:00</updated>
     <author>
         <name>Eric Douglas</name>
     </author>
@@ -16,15 +16,20 @@
         </author>
         <link href="https://douglaspc.com/navigating-tech-troubles/"/>
         <id>https://douglaspc.com/navigating-tech-troubles/</id>
+        <media:content url="https://douglaspc.com/media/posts/8/business-computer-connection-contemporary-450035-edited.jpg" medium="image" />
+            <category term="tech support"/>
+            <category term="tech services"/>
 
         <updated>2024-11-12T10:35:37-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://douglaspc.com/media/posts/8/business-computer-connection-contemporary-450035-edited.jpg" alt="" />
                     Hey there, future business leaders! As your friendly neighborhood tech helper, I've seen my fair share of tech hiccups. From slow internet to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://douglaspc.com/media/posts/8/business-computer-connection-contemporary-450035-edited.jpg" class="type:primaryImage" alt="" /></p>
                 <p data-sourcepos="3:1-3:35">Hey there, future business leaders!</p>
 <p data-sourcepos="5:1-5:308">As your friendly neighborhood tech helper, I've seen my fair share of tech hiccups. From slow internet to system crashes, these issues can disrupt workflows, frustrate employees, and ultimately impact your bottom line. But fear not! Today, we're diving into practical strategies to overcome these challenges.</p>
 <p data-sourcepos="7:1-7:39"><strong>1. Build a Strong Tech Support Team</strong></p>
