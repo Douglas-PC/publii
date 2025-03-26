@@ -3,7 +3,7 @@
     <title>Douglas PC</title>
     <link href="https://douglaspc.com/feed.xml" rel="self" />
     <link href="https://douglaspc.com" />
-    <updated>2025-03-25T23:01:52-04:00</updated>
+    <updated>2025-03-25T23:13:54-04:00</updated>
     <author>
         <name>Eric Douglas</name>
     </author>
@@ -414,7 +414,7 @@
             <category term="tech services"/>
             <category term="computer repair"/>
 
-        <updated>2024-10-18T21:09:31-04:00</updated>
+        <updated>2025-03-25T23:13:54-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://douglaspc.com/media/posts/1/TPX-services.png" alt="" />
@@ -424,7 +424,18 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://douglaspc.com/media/posts/1/TPX-services.png" class="type:primaryImage" alt="" /></p>
-                <p><strong>Expert Technology Services</strong></p>
+                <!-- Google tag (gtag.js) -->
+<p>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-692842152"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-692842152');
+</script>
+</p>
+<p><strong>Expert Technology Services</strong></p>
 <p>At Douglas PC we provide technology services to help succeed in today’s digital landscape.</p>
 <p><strong>Identify Needs</strong></p>
 <p>It takes time &amp; effort to assess your unique requirements, workflow processes, and goals to deliver tailored solutions that address specific pain points. We stay informed about the latest industry trends, innovations, and best practices from top innovative providers in tech, AI, marketing, sales, communications, internet, and more.</p>
