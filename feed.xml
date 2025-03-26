@@ -3,7 +3,7 @@
     <title>Douglas PC</title>
     <link href="https://douglaspc.com/feed.xml" rel="self" />
     <link href="https://douglaspc.com" />
-    <updated>2025-03-26T10:57:53-04:00</updated>
+    <updated>2025-03-26T10:59:15-04:00</updated>
     <author>
         <name>Eric Douglas</name>
     </author>
@@ -362,7 +362,7 @@
             <category term="phone"/>
             <category term="communication"/>
 
-        <updated>2025-03-26T10:57:53-04:00</updated>
+        <updated>2025-03-26T10:59:15-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://douglaspc.com/media/posts/3/Minimalist-Sunrise-Email-Header.png" alt="" />
@@ -378,9 +378,21 @@
 <p><strong>Get Access to Insights</strong></p>
 <p>Our advanced platforms give you real-time access to your customer’s information, including:</p>
 <ul>
-<li>Past conversations</li>
-<li>Orders</li>
-<li>Chats</li>
+<li class="icon-list__item">
+<div class="custom_text_copy_cop custom-text CID-custom-text-e0b1298e IID-custom-text-982189e7 icon-list__text">
+<div class="custom-text__wrapper" data-dl-custom-type=" " data-style="custom" data-content-wrapper="true">
+<div>Connect with local, toll-free, and international numbers from anywhere</div>
+</div>
+</div>
+</li>
+<li>24/7 support and carrier-grade reliability worldwide</li>
+<li class="icon-list__item">
+<div class="custom_text_copy_cop_1465985882 custom-text CID-custom-text-e0b1298e IID-custom-text-1e7aa476 icon-list__text">
+<div class="custom-text__wrapper" data-dl-custom-type=" " data-style="custom" data-content-wrapper="true">
+<div>AI-driven insights, high security, and reliable 99.999% availability</div>
+</div>
+</div>
+</li>
 </ul>
 <p>With our customized menu systems, you can make it easy for your customers to navigate and find the information they need quickly. We also offer expert guidance on how to optimize your communications workflow.</p>
 <p><strong>Unify Communications</strong></p>
